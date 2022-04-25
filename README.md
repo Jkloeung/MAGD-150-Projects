@@ -26,6 +26,6 @@ In this assignment, I created my own functions to make a retro style scene.
 
 ## Lab 7 Assignment: Objects
 
-In this assignment, I had to use functions to create objects and classes.
+In this assignment, I had to use functions to create objects and classes to make a spring based program.
 
 [Click here for the source code](https://github.com/Jkloeung/MAGD-150-Projects/blob/gh-pages/s22magd150lab07_Kloeung/sketch.js)
